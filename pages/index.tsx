@@ -14,8 +14,8 @@ export default function Home() {
             <p className='mt-[1rem] text-lg '>
               <Link href='https://github.com/Cyphen12/tailwind-typescript-starter'>
                 <span className='bg-green-400 p-2  text-black/70 rounded font-bold shadow-xl '>
-                See the repository
-                </span>
+             he repository
+                </>
               </Link>
             </p>
           </div>
