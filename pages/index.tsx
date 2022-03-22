@@ -14,7 +14,7 @@ export default function Home() {
             <p className='mt-[1rem] text-lg '>
               <Link href='https://github.com/Cyphen12/tailwind-typescript-starter'>
                 <>
-             he rep
+             h
                 </>
               </Link>
             </p>
