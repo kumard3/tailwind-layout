@@ -12,11 +12,6 @@ export default function Home() {
               A starter for Next.js, Tailwind CSS, and TypeScript with Seo.
             </p>
             <p className='mt-[1rem] text-lg '>
-              <Link href='https://github.com/Cyphen12/tailwind-typescript-starter'>
-                <>
-             h
-                </>
-              </Link>
             </p>
           </div>
         </section>
