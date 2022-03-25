@@ -1,6 +1,7 @@
 /* eslint-disable @next/next/link-passhref */
 import Link from "next/link";
 import * as React from "react";
+import Accordion from "../components/accordion";
 import Header from "../components/Header";
 
 const Nav = () => {
@@ -22,6 +23,7 @@ export default function Home() {
           <h1 className="px-3 text-gray-100">Display</h1>{" "}
           <div className="bg-gray-200 h-[1px] w-1/2"></div>
         </div>
+        <Accordion />
       </div>
     </div>
   );
